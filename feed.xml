@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zaneta for Chula Vista</title>
+    <link>https://zanetaforchulavista.pages.dev</link>
+    <description>Latest posts from Zaneta for Chula Vista</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://zanetaforchulavista.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Foundations of Effective Civic Engagement</title>
+      <link>https://zanetaforchulavista.pages.dev/blog/the-foundations-of-effective-civic-engagement/</link>
+      <description>The Foundations of Effective Civic Engagement — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
